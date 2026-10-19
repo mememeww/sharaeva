@@ -1,83 +1,59 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:111111,50:292929,100:B8FF00&height=220&section=header&text=DASHULLY&fontSize=65&fontColor=FFFFFF&fontAlignY=42&desc=NO%20FIXED%20AESTHETIC&descSize=13&descColor=B8FF00&descAlignY=65" width="100%" />
+<img src="./cover.jpg" width="100%" />
 
 <br/>
 
-`PYTHON` &nbsp; / &nbsp; `HTML` &nbsp; / &nbsp; `CSS`
+# dashully
 
-*not perfect. just interesting.*
+*somewhere between a dream and reality.*
 
-[about](#-about) · [stack](#-stack) · [projects](#-projects)
+`PYTHON` · `HTML` · `CSS`
+
+♡ ───────────────────── ♡
 
 </div>
 
----
+## about me
 
-## // ABOUT
+hi, i'm **dashully**.
 
-```text
-NAME       dashully
-STATUS     beginner developer
-LOCATION   somewhere on the internet
-CURRENTLY  learning how to make things
-MOOD       offline but online
-```
+just a beginner developer trying to understand
+the world, write some code and make something of my own.
 
-hi, i'm dashully.
+- 🌊 learning to code, slowly but surely
+- 🫧 exploring web development
+- 🎧 music, strange internet corners & late nights
+- ☁️ collecting little moments and big dreams
 
-i'm learning to code, experimenting with web design
-and figuring things out one bug at a time.
+> *how i want to look like.*
 
-i like strange internet aesthetics, black & white
-photography, messy sketches and things that
-don't look like everybody else's.
-
-> "i'll figure it out eventually."
-
----
-
-## // STACK
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode&theme=dark" />
-</p>
-
-```python
-while True:
-    learn()
-    create()
-    make_mistakes()
-    try_again()
-```
-
----
-
-## // PROJECTS
-
-`01` — **python experiments**
-small scripts, exercises & random ideas.
-
-`02` — **web experiments**
-HTML, CSS and layouts with a little personality.
-
-`03` — **internet archive**
-a collection of things i'm learning and creating.
-
-*projects will be added as i build them.*
-
----
-
-## // GITHUB STATS
+## currently learning
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dashully&show_icons=true&hide_border=true&bg_color=111111&title_color=B8FF00&text_color=E5E5E5&icon_color=B8FF00&rank_icon=github" width="100%" />
+<img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode&theme=light" />
 
-<br/><br/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dashully&layout=compact&hide_border=true&bg_color=111111&title_color=B8FF00&text_color=E5E5E5" />
+## little projects
+
+- `01` — python experiments
+- `02` — personal web pages
+- `03` — things i'm learning along the way
+
+*more coming soon...*
+
+## github activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dashully&show_icons=true&hide_border=true&bg_color=F5F7F7&title_color=718D9B&text_color=66747A&icon_color=9AB6C1" width="100%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dashully&layout=compact&hide_border=true&bg_color=F5F7F7&title_color=718D9B&text_color=66747A" />
 
 </div>
 
@@ -85,8 +61,8 @@ a collection of things i'm learning and creating.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=80&section=footer&text=END%20OF%20TRANSMISSION&fontSize=13&fontColor=B8FF00" width="100%" />
+*the world feels softer through a screen.*
 
-`stay weird.`
+`stay dreamy ♡`
 
 </div>
